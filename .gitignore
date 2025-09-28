@@ -110,6 +110,10 @@ __pycache__/
 *.jar
 *.war
 *.ear
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
 
 # Large media files
 *.mp4
