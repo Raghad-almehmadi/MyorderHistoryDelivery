@@ -4,6 +4,3 @@
 !gradlew
 !gradlew.bat
 
-# Ignore build outputs (safe)
-**/build/
-
