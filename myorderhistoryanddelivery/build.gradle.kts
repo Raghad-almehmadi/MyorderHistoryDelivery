@@ -34,17 +34,6 @@ android {
         jvmTarget = "11"
     }
 }
-publishing {
-    publications {
-        create<MavenPublication>("release") {
-            // Publish the release AAR
-            afterEvaluate { from(components["release"]) }
-            groupId = "com.github.Raghad-almehmadi"
-            artifactId = "MyorderHistoryDelivery"
-            version = "1.0.0"
-        }
-    }
-}
 dependencies {
     // Core + appcompat + material (XML world)
     implementation(libs.androidx.core.ktx)

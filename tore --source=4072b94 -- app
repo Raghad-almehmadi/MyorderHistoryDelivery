@@ -1,0 +1,85 @@
+[33m592a211[m Remove app module from project and repo
+[33m4072b94[m Push full project
+[33mb0667b3[m Push full project snapshot
+[33m52cb7f4[m Remove app module from repo
+[33m566912a[m delete app module
+[33mf103d32[m Remove app module from repo
+[33mc945724[m[33m ([m[1;31mbitbucket/VLA-93-myhistory-delivery-logs[m[33m)[m fix build gradle
+[33me6d7464[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-93-myhistory-delivery-logs
+[33mca99405[m create My order history and delivery Logs Module
+[33mb74df86[m[33m ([m[1;31mbitbucket/feature/VLA-89-horizontal-list[m[33m)[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into feature/VLA-89-horizontal-list
+[33m27d5721[m fix conflict
+[33m5ef439d[m fix conflict
+[33m2780995[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-86-vertical-list-component-library
+[33mc26ca2e[m solve conflict
+[33mda8ba91[m Merge branch 'feature/VLA-87-network-library' into feature/VLA-80-apply-di-koin
+[33m6a3cba2[m fix conflict
+[33m26ec98f[m commit
+[33mc20ebb3[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-86-vertical-list-component-library
+[33mdfae9b6[m[33m ([m[1;31mbitbucket/feature/VLA-87-network-library[m[33m)[m remove clint from SocketIntegration
+[33m5b2e045[m[33m ([m[1;31mbitbucket/feature/VLA-88-location-module[m[33m)[m VLA-88 location module
+[33m8eb6aff[m Merge branch 'main' of https://bitbucket.org/ntglms/lmd into feature/VLA-88-location-module
+[33m5dd11c8[m VLA-88 location module
+[33mc2997ff[m VLA-89 fix the card for Horizontal list
+[33mf84639a[m delete network layer
+[33m004ec01[m remove old ones
+[33m3170e57[m WIP: local changes before switching branch
+[33m3cc1932[m delete network layer
+[33md458e11[m use network library
+[33mcfd7b34[m VLA-86 vertical list component
+[33m125506f[m create network module
+[33m7bd31b5[m VLA-86 vertical list component - publish
+[33m6492d46[m VLA-86 vertical list component - publish
+[33m4189c79[m VLA-86 vertical list component - publish
+[33m4312675[m VLA-89 library for Horizontal list
+[33me08a66e[m VLA-86 vertical list component library
+[33m0a25fbb[m[33m ([m[1;31mbitbucket/VLA-84-main-pool-and-socket[m[33m)[m VLA-84 main pool and socket KOIN
+[33mf9263a8[m VLA-84 main pool and socket KOIN
+[33m9339db6[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-84-main-pool-and-socket
+[33m4f782f0[m VLA-84 main pool and socket KOIN
+[33ma6d5161[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-84-main-pool-and-socket
+[33m6481b48[m[33m ([m[1;31mbitbucket/feature/VLA-83-history-and-delivery-log[m[33m)[m solve conflict
+[33ma88df8f[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into feature/VLA-83-history-and-delivery-log
+[33m20f12eb[m[33m ([m[1;31mbitbucket/VLA-82-my-orders-and-my-pool[m[33m)[m VLA-82 Replace Retrofit Provider
+[33ma4cf4a7[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-84-main-pool-and-socket
+[33mbcdfdac[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into feature/VLA-83-history-and-delivery-log
+[33mb7640b2[m VLA-84 main pool and socket KOIN
+[33mbcf74c8[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-82-my-orders-and-my-pool
+[33mf3ce2aa[m VLA-84 main pool and socket KOIN
+[33m7bff9eb[m VLA-82 My order My pool - koin
+[33m829fd78[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-84-main-pool-and-socket
+[33m52e3869[m[33m ([m[1;31mbitbucket/feature/VLA-81-login-logout/side-menue-/settings[m[33m)[m VLA-79
+[33m8b7e70b[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into feature/VLA-83-history-and-delivery-log
+[33mf55ecc8[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-82-my-orders-and-my-pool
+[33ma2f5304[m VLA-79 fix retrofit
+[33m2a37901[m VLA-82 My order My pool - koin
+[33m1efa692[m VLA-84 main pool and socket KOIN
+[33m81bdd0d[m solve conflict
+[33ma69b9c2[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-82-my-orders-and-my-pool
+[33mdbe16c4[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into feature/VLA-83-history-and-delivery-log
+[33m224035e[m Merge branch 'feature/VLA-80-apply-di-koin' of https://bitbucket.org/ntglms/lmd into VLA-84-main-pool-and-socket
+[33mf6bbd34[m VLA-79 use koinViewModel
+[33m27b0ff6[m VLA-84 main pool and socket KOIN
+[33m710665b[m VLA-79 login-logou/settings/Network/ Socket
+[33mf2d2438[m VLA-84 main pool and socket KOIN
+[33m578ee31[m fix Orders List Controller
+[33m0f3a1f9[m VLA-84 main pool and socket KOIN
+[33m8d09c33[m VLA-80 My order My pool - koin
+[33mf19c16e[m Detect and Ktlint
+[33m082ace4[m Koin DI for order history and deliveries Log
+[33mf55114e[m VLA-80 koin main
+[33m2290bcb[m VLA-80 koin main
+[33m45192bb[m[33m ([m[1;31mbitbucket/VLA-68-add-order-to-me2[m[33m)[m VLA-68 add order to me2
+[33m9105adc[m VLA-68 add order to me2
+[33mf6f34dc[m VLA-68 add order to me2
+[33m750f0f5[m Merged in feature/VLA-66-notification-and-location-permission (pull request #40)
+[33m8c1e0d6[m[33m ([m[1;31mbitbucket/feature/VLA-66-notification-and-location-permission[m[33m)[m VLA-66 handle notification permission
+[33mbe4934b[m VLA-66 remove unused imports
+[33mc3a6499[m VLA-66 notification permission and location for myPoolScreen and generalPoolScreen
+[33m105895e[m[33m ([m[1;31mbitbucket/feature/VLA-67-support-dimensions-and-tablet[m[33m)[m VAL-67 Support dimensions and tablet
+[33m6c2c365[m[33m ([m[1;31mbitbucket/VLA-45-revamp--methods-size-and-files-si[m[33m)[m fixing my pool
+[33mdbd0baa[m[33m ([m[1;31mbitbucket/feature/VLA-60-test-update-status-send-notificat[m[33m)[m fix box height in card my pool
+[33md8f281c[m fix reassign
+[33m6d772c7[m Merged in VLA-43-revamp-general-vertical-list-and- (pull request #27)
+[33mb7beb68[m VLA-39- fix conflicts
+[33mf437a7c[m[33m ([m[1;31mbitbucket/VLA-55-integrate-fields-was-misssing[m[33m)[m VLA-55 add fields missing
