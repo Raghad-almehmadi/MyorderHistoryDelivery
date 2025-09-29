@@ -1,1 +1,8 @@
-/build
+# Allow Gradle wrapper (needed for CI/JitPack)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+
+# Ignore build outputs (safe)
+**/build/
