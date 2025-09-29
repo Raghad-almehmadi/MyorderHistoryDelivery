@@ -1,0 +1,3 @@
+/build
+# Exclude the app module completely
+/app/
